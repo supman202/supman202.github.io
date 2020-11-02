@@ -1,0 +1,141 @@
+body {
+	background-image: url(../img/Koala.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100%;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em;
+}
+nav h1{
+    font-size: 3em;
+    font-weight: bold;
+    color: yellow;
+    flex-direction: inherit;
+}
+.sup{
+font-size: 2em;
+font-weight: bold;
+color: red;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    padding: 2em;
+}
+li {
+    margin-right: 2em;
+}
+a {
+    text-decoration: none;
+    color: hotpink;
+}
+a:hover {
+    color: lightgreen;
+}
+div{
+background: green;
+font-size: 20px;
+color: silver;
+font family: san-serif;
+height: 100px;
+width: 250px;
+border: 5px yellow;
+padding: 5px;
+}
+ span{
+color: yellow;
+}
+.peter{
+float: left;
+height: 600px;
+width: 300px;
+border: 5px solid yellow;
+padding: 5px;
+background-image: url(../img/penguins.jpg);
+padding: 10px 10px;
+}
+.mathew{
+float: right;
+height: 600px;
+width: 300px;
+border: 5px solid yellow;
+margin-left: 20px;
+padding: 5px;
+}
+.joy{
+float: right;
+height: 600px;
+width: 300px;
+border: 5px solid yellow;
+margin-left: 20px;
+padding: 5px;
+}
+.ruth{
+float: right;
+height: 600px;
+width: 300x;
+border: 5px solid yellow;
+padding: 5px;
+}
+
+ul li{
+    margin: 5px;
+font-size: 40px;
+font-family: monospace;
+}
+h2{
+    font-synthesis: weight;
+    font-family: monospace;
+    font-size: 20px;
+    color: orangered;
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    color:darkblue;
+    text-align: left;
+}
+a{
+
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center
+    color: yellow; 
+}
+a{
+    color: deeppink;
+}
+a:hover{
+    font-family: sans-serif;
+    font-size: 35;
+    color: navajowhite;
+}
+.state{
+    font-size: 30px;
+    color: salmon;
+    font-family: fantasy;
+}
+
+ol {
+    color: mediumblue;
+    font-size: 30px;
+    font-family: serif;
+}
+.reg{
+color: red;
+font-size: 40px;
+font-family: cursive;
+font-weight: bold;
+}
+
+.form{
+    color: darkorange;
+    font-size: 25px;
+    font-family: monospace;
+}
